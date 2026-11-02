@@ -36,15 +36,10 @@
 
 ## 📊 GitHub 统计
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kangjiazhen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangjiazhen&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kangjiazhen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kangjiazhen&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img src="https://streak-stats.demolab.com?user=kangjiazhen&theme=tokyonight&hide_border=true&locale=zh_Hans"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=kangjiazhen&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
-
-<!-- 活跃度波形 -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kangjiazhen&theme=tokyo-night&hide_border=true&bg_color=1A1B27" width="100%"/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
